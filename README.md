@@ -9,7 +9,10 @@ In completing the analysis, I broke the data into labels, loan_status, and featu
 
 ## Results
 
+### Confusion Matrix
 ![confusion_matrix.png](https://github.com/rollernathan/credit-risk-classification/blob/main/Credit_Risk/images/confusion_matrix.png)
+
+### Classification Report
 ![classification_report.png](https://github.com/rollernathan/credit-risk-classification/blob/main/Credit_Risk/images/classification_report.png)
 
 Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
